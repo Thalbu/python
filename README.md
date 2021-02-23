@@ -1,2 +1,2 @@
 # python
-Nesse repositório estão salvos alguns trabalhos praticos que realizei em Python tanto em arquivos '.py' quando em arquivos '.ipynb' que são gerados quando se criam notebook pelo Jupyter.
+Nesse repositório estão salvos alguns trabalhos praticos que realizei em Python tanto em arquivos '.py' quando em arquivos '.ipynb' que são gerados quando se criam notebook pelo Jupyter. Existe a possibilidade e publicatada em arquivos '.py' e '.ipynb', pois em alguns momentos era necessaria avaliação exclusiva de apenas um desafio e tive que criar um arquivo em Python pelo proprio bloco de notas a partir dos códigos já prontos em notebooks.
